@@ -1,0 +1,18 @@
+Package: hardsub-console
+Version: 2.2.0
+Release: 2
+Maintainer: Dominik Chrástecký <dominik@chrastecky.cz>
+Homepage: https://github.com/RikudouSage/hardsub-console
+Architecture: amd64
+Depends: ffmpeg, mkvtoolnix
+Installed-Size: 77476
+Priority: optional
+Section: video
+Filename: pool/main/h/hardsub-console/hardsub-console_2.2.0_amd64.deb
+Size: 19188522
+SHA256: 8ba7499f149fc2db0787ee807ef5f98eaf3d67ed87c580a650e833ab89b83fc4
+SHA1: a63ae5d79b2a70549bc73e852a14492ba7cf1824
+MD5sum: ce684f96aab8bfbd6d1d7157a22c298b
+Description: Simple Qt app for creating hardsubs
+ Simple Qt app for creating hardsubs from mkv files and ass subtitles
+
