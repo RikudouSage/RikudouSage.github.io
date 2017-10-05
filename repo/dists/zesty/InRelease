@@ -4,30 +4,30 @@ Hash: SHA256
 Origin: rikudousage.github.io
 Label: rikudousage.github.io
 Codename: zesty
-Date: Thu, 05 Oct 2017 13:04:10 UTC
+Date: Thu, 05 Oct 2017 13:54:56 UTC
 Architectures: amd64
 Components: main
 Description: Just some repo
 MD5Sum:
- d67d17894934008d501b49e0a169f77b 614 main/binary-amd64/Packages
- 22903498677930a83f878a1cd09c194c 417 main/binary-amd64/Packages.gz
+ 88e6938b684c4ff465af427ce65c7d80 612 main/binary-amd64/Packages
+ 48095679070aba2f8cfa9456f9203ccd 406 main/binary-amd64/Packages.gz
  9acbba7bab755b22f03c24f34f87717f 123 main/binary-amd64/Release
 SHA1:
- bb528e318586089b2910df57a3388bd7ac2b4bc0 614 main/binary-amd64/Packages
- 8393e2cad7037bcc5c93dc7371e63d6fc0b760ea 417 main/binary-amd64/Packages.gz
+ eec1186cdcacf9549b00849be4363d123caf5d4f 612 main/binary-amd64/Packages
+ 1a7013ce12e1cafd40220bb5f784ca7da3dda4d6 406 main/binary-amd64/Packages.gz
  e0137f762e28687283fd8a23209cdaf89be9cb8e 123 main/binary-amd64/Release
 SHA256:
- 0a9d06ce1b2a4b1d97d45575485a89c0b859f185e56929caff40d9a450af2a80 614 main/binary-amd64/Packages
- fb57a472e1db092f2e0db3f089c64a2ee861d5834df749a092cf6358a5038a62 417 main/binary-amd64/Packages.gz
+ 0870a90f586eff404336d75bd087b1afd9a2b7e0591772d3e0e21abc5c99ff6f 612 main/binary-amd64/Packages
+ 8314a1891482af772717fab21b945e1fc77771d41e7fac43e02c22fd27a0142f 406 main/binary-amd64/Packages.gz
  af4c20727184a5dd8a3d63a268fd550082032f2199c3f2228507a2ccf854445e 123 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJZ1i3LAAoJEJyiwpmGofoz4zIH/3Ys5TTmXGSm0QGhmbhoVhel
-513sm00ZiM8TeC3NFQt/lVf2OoFQ03AZJDpyKh98bYwJLTydjYozStj/VcpA8ZIQ
-O4bVQpwDcTcwPXoKp452RGxxNlZX0HKXk5Uox1ZS4JNsh6sTFmNI+5UInrJy5wXj
-tZsmrEtvgrl02j3Kp1/ur1mAeS5mxs8lgfuilQZvGFcxNHOubX9JPycwhT22lsCd
-h9agWWvkoWULkoh6WVVxEr9CXIMmBa9LVey4aLOQ9AfXD4nZCRh7qaksxAbFjDez
-NlSwxXv6QDgQ+SqXRMmUIkcKpoG0kbzCvsmuz5XBC442qUlvT8aX+eNE5yOiXX4=
-=uAEX
+iQEcBAEBCAAGBQJZ1jmxAAoJEJyiwpmGofozP7UIAJ/74vyhPbXdWY8+1Xqp7TDi
+34qRE+0Dq5spwi5FTTG5fHVYx2EPvPqNKZxe1rWRrW4iUex7H/lZQYlyhzGIQELl
+XXv/xNyiMUp46Z6V955JYUnYw7Kzm5mozV8LrTMQyDJZhyGqSai7aAcBH/W1uXqb
+O67HzFA3LAXf7jw1M+KbXOFWPmSD7WDLFWdgZnrQfL43LzOA2m7YiWDww2lj08w4
+/eMBsZfQzEwxeE0o8ngnhSKxLUwH2K9WwDSk+jWq1GMo/Y39BZy/G9I2JUJTFApa
+euSxa/4Im0AQ4RXMfVHnovTHWgy1LOY7T8GuwgdbaGpSeDqQAz8QjEAlaG5QSrg=
+=++jz
 -----END PGP SIGNATURE-----

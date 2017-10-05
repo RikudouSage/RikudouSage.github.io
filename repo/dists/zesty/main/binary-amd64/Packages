@@ -1,15 +1,15 @@
 Package: mangastream-downloader
-Version: 1.1.2
+Version: 1.1.3
 Installed-Size: 171
-Maintainer: Dominik Chrástecký <dominik@chrastecky.eu>
+Maintainer: Dominik Chrastecky <dominik@chrastecky.cz>
 Architecture: amd64
 Depends: libqt5quick5, libqt5widgets5, qml-module-qtquick-controls, qml-module-qtquick-localstorage, qml-module-qtquick-dialogs
 Priority: optional
 Section: utils
-Filename: pool/main/m/mangastream-downloader/mangastream-downloader_1.1.2_amd64.deb
-Size: 87348
-SHA256: 4c5e35424cf8a7b37c06c7400f5322fda22c5a382ce801f5c5989ccd325b9895
-SHA1: 0a9bb80e834abb20265d0120423b440209ccb358
-MD5sum: 9071adb0af351ee98ad3ed6977047b00
-Description: MangaStream downloader written in Qt
+Filename: pool/main/m/mangastream-downloader/mangastream-downloader_1.1.3_amd64.deb
+Size: 87388
+SHA256: 5a923293a5073a960a3ebe78b183d83605385f8d2d2e128ce9a8be0846b01ea2
+SHA1: a2ab1b45e042012494035647737eb6aa4776a92e
+MD5sum: 9154b3c87ce79ba5ca508db308a78b3e
+Description: MangaStream Downloader written in Qt
 
