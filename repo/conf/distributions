@@ -1,0 +1,7 @@
+Origin: rikudousage.github.io
+Label: rikudousage.github.io
+Codename: zesty
+Architectures: amd64
+Components: main
+Description: Just some repo
+SignWith: 3A563592
