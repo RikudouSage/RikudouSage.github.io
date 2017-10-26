@@ -1,0 +1,19 @@
+Origin: rikudousage.github.io
+Label: rikudousage.github.io
+Codename: xenial
+Date: Thu, 26 Oct 2017 11:16:15 UTC
+Architectures: amd64
+Components: main
+Description: Just some repo
+MD5Sum:
+ 6a0aea39a148dc9e3cbb9eac179a29ed 635 main/binary-amd64/Packages
+ fc7ad513e027c2d1ecc6081ac22ad619 435 main/binary-amd64/Packages.gz
+ 9acbba7bab755b22f03c24f34f87717f 123 main/binary-amd64/Release
+SHA1:
+ 6ab717481cde2cd33ba24b84f9339a908df0fb92 635 main/binary-amd64/Packages
+ 0603b5ce87a3a6ceb302156ae2f61f04d6bcaf5e 435 main/binary-amd64/Packages.gz
+ e0137f762e28687283fd8a23209cdaf89be9cb8e 123 main/binary-amd64/Release
+SHA256:
+ 69ff3f0c949754be08d258b0a8f84f19707745c55c8e3c3926245faddd4b0671 635 main/binary-amd64/Packages
+ 55fd40766889150fd18c8d7ac63465677ba0c70abccbaa1bee1a7de63e6063ee 435 main/binary-amd64/Packages.gz
+ af4c20727184a5dd8a3d63a268fd550082032f2199c3f2228507a2ccf854445e 123 main/binary-amd64/Release
