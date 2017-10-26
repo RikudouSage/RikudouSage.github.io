@@ -4,30 +4,30 @@ Hash: SHA256
 Origin: rikudousage.github.io
 Label: rikudousage.github.io
 Codename: xenial
-Date: Thu, 26 Oct 2017 11:16:15 UTC
+Date: Thu, 26 Oct 2017 11:20:12 UTC
 Architectures: amd64
 Components: main
 Description: Just some repo
 MD5Sum:
- 6a0aea39a148dc9e3cbb9eac179a29ed 635 main/binary-amd64/Packages
- fc7ad513e027c2d1ecc6081ac22ad619 435 main/binary-amd64/Packages.gz
+ bf083f8cf1804395c65dc137ba392204 1087 main/binary-amd64/Packages
+ e6ef3ce0b7f6d51a351a0924394514bf 639 main/binary-amd64/Packages.gz
  9acbba7bab755b22f03c24f34f87717f 123 main/binary-amd64/Release
 SHA1:
- 6ab717481cde2cd33ba24b84f9339a908df0fb92 635 main/binary-amd64/Packages
- 0603b5ce87a3a6ceb302156ae2f61f04d6bcaf5e 435 main/binary-amd64/Packages.gz
+ b2180ebb178b8d0da1825b6b02fef22fd8347221 1087 main/binary-amd64/Packages
+ eb641bfd46497dc07d2112e507d4b5a3d4fe810c 639 main/binary-amd64/Packages.gz
  e0137f762e28687283fd8a23209cdaf89be9cb8e 123 main/binary-amd64/Release
 SHA256:
- 69ff3f0c949754be08d258b0a8f84f19707745c55c8e3c3926245faddd4b0671 635 main/binary-amd64/Packages
- 55fd40766889150fd18c8d7ac63465677ba0c70abccbaa1bee1a7de63e6063ee 435 main/binary-amd64/Packages.gz
+ a46210747a20a4666382b574a9c26a5b60c53924cab3e34877de454839c7f172 1087 main/binary-amd64/Packages
+ c7f8772f822b83476a1ca578773e99ecb8ab13e8508b0388aa7f393f72e6e45e 639 main/binary-amd64/Packages.gz
  af4c20727184a5dd8a3d63a268fd550082032f2199c3f2228507a2ccf854445e 123 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJZ8cP/AAoJEJyiwpmGofoz2ZAH+gNUQLI3xCyAKwYChhoYHYAH
-Bs7BFM6p6I1fTCYaURy1URNFvAVjfWezr3Y9G2CVBekCRIHjjFPbehTjY99dJnr6
-SVSZuv4PEMa08z9Z5HBuXTOC8GXB32z7JvFX4lxI+JK07C6A1NqO55rg5OuhEs2R
-3hl7vfqnsqPE2wLes0tfOgO1tIi48cL7tp94M84FfJKNSSPY7sorzyOrtNhUenjQ
-vlBiCTUinG8WX0n0czf9Z+1uHLMdbXyajo2irl/ozy/0CTHPAw7V+2cA+uacl+Il
-SjFrTRSc/lMfAfYe7wNkdp2+0MCqwabH+ncu0lvCDNw17NwWdJwiew4T0RXA5Yw=
-=6Ecu
+iQEcBAEBCAAGBQJZ8cTsAAoJEJyiwpmGofoz94MH/jO4pS6TcdadqWoEZI/QIo58
+GmIJYJtdrwyhvI86nIk6fsN/zcVzUQVh38wIbNf1yI1DE3SxhWbwmNhYEWglxm8I
+xLjrgbhXxzC9Dbjnrz5JcXJbDB54LgTS2KgmZ/Hyv6PX5AOAkIj+5b4Jjrv2b1zN
+ER5qDKHlBcHGnSmHFCGgKPLT47a7imOoKs6GNQE3IrLnQy7zQwgJ3JZsKqOkRkmT
+RolvWcjrQNDzKrCs/Li6+vsWwmFiwH1gynq1ea0rAaprKurLLPOzmllQ5D576bbU
+X84QsJL/H/rW37gNUSyhLgcIXkJ0HCE+QE0Hw3VHnHBMdVoVTr4nyndrkyTSOWo=
+=iH5p
 -----END PGP SIGNATURE-----

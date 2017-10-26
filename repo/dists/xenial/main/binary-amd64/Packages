@@ -16,3 +16,18 @@ MD5sum: ce684f96aab8bfbd6d1d7157a22c298b
 Description: Simple Qt app for creating hardsubs
  Simple Qt app for creating hardsubs from mkv files and ass subtitles
 
+Package: s3fs-fuse
+Installed-Size: 696
+Maintainer: root@ip-172-31-19-255
+Architecture: amd64
+Version: 17:1.82-1
+Provides: s3fs
+Priority: extra
+Section: checkinstall
+Filename: pool/main/s/s3fs-fuse/s3fs-fuse_1.82-1_amd64.deb
+Size: 207654
+SHA256: 2618eb8c8f828ce299da33c617c3c1877173db73f3d9fb83800aacb976c00e2a
+SHA1: e4525ebd52f964b6a117bf8c02689df4344f5053
+MD5sum: ab82f31001ef34d597fa9bb2fa15ecf4
+Description: Package created with checkinstall 1.6.2
+
