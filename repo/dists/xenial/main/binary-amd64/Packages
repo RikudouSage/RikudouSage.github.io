@@ -31,3 +31,20 @@ SHA1: e4525ebd52f964b6a117bf8c02689df4344f5053
 MD5sum: ab82f31001ef34d597fa9bb2fa15ecf4
 Description: Package created with checkinstall 1.6.2
 
+Package: s3fs-fuse-checker
+Version: 1.0.0
+Release: 2
+Maintainer: Dominik Chrastecky <dominik@chrastecky.cz>
+Homepage: https://git.vivmail.cz
+Architecture: all
+Depends: php-cli, s3fs-fuse
+Installed-Size: 404
+Priority: optional
+Section: utilities
+Filename: pool/main/s/s3fs-fuse-checker/s3fs-fuse-checker_1.0.0_all.deb
+Size: 75112
+SHA256: 5908a7105252f747f540760595f96ae67ee2472b5932ae66a1ef665add87e4f9
+SHA1: 91fe7068d477097e7cdac6e42b33f7d13ca3911d
+MD5sum: 4c75908e3f9074e95880e68369aa81b3
+Description: Checks s3fs for failure
+
